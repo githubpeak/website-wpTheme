@@ -27,8 +27,8 @@ get_header();
         <!-- <img src="wp-content/themes/peak2021/img/home-hero.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy"> -->
       </div>
       <div class="home-image-contact-details">
-        €66M by entrepreneurs for entrepreneurs<br>
-  37+ Investments — Europe <br>
+        €150M by entrepreneurs for entrepreneurs<br>
+  50+ Investments — Europe <br>
         SaaS — Marketplaces — Platforms 
       </div>
       <div class="home-copy-segment-next">
